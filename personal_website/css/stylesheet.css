@@ -1,0 +1,16 @@
+body{
+    background-color: mediumaquamarine;
+}
+
+h1 {
+    color: darkslategray;
+}
+
+nav {
+    text-align: center;
+    background-color: lightblue;
+}
+
+.h1headingindex {
+    font-family: Montserrat, sans-serif;
+}
